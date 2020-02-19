@@ -1,0 +1,6 @@
+[06-Jun-2019 22:54:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'withJson' (T_STRING), expecting ';' in /home/konq1592/public_html/slim/src/routes.php on line 95
+[06-Jun-2019 22:54:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'withJson' (T_STRING), expecting ';' in /home/konq1592/public_html/slim/src/routes.php on line 95
+[06-Jun-2019 22:56:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/konq1592/public_html/slim/src/routes.php on line 99
+[07-Jun-2019 15:25:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in /home/konq1592/public_html/slim/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php on line 5
+[08-Jun-2019 02:32:54 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/konq1592/public_html/slim/src/routes.php on line 132
+[08-Jun-2019 02:32:54 Asia/Jakarta] PHP Notice:  Undefined index: lng in /home/konq1592/public_html/slim/src/routes.php on line 133

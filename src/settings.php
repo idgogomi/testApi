@@ -19,9 +19,9 @@ return [
         //connect db
         'db' =>[
             'host' => 'localhost',
-            'user' => 'root',
-            'pass' => '',
-            'dbname' => 'rest_api',
+            'user' => 'konq1592_root',
+            'pass' => 's4tudu4tig4',
+            'dbname' => 'konq1592_api',
             'driver' => 'mysql'
         ]
     ],
